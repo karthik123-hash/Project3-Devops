@@ -1,0 +1,1 @@
+This is Sample project for learn CICD pipeline in devops using IAC.
